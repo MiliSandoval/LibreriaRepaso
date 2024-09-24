@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|c:\\users\\milis\\downloads\\material facultad\\materias\\programaci\u00F3n ii\\actividadesclasesvirtuales\\clase 20.09.2024\\efwebapi\\efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|c:\\users\\milis\\downloads\\material facultad\\materias\\programaci\u00F3n ii\\actividadesclasesvirtuales\\clase 20.09.2024\\efwebapi\\efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|c:\\users\\milis\\downloads\\material facultad\\materias\\programaci\u00F3n ii\\actividadesclasesvirtuales\\clase 20.09.2024\\efwebapi\\efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|c:\\users\\milis\\downloads\\material facultad\\materias\\programaci\u00F3n ii\\actividadesclasesvirtuales\\clase 20.09.2024\\efwebapi\\efwebapi\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|c:\\users\\milis\\downloads\\material facultad\\materias\\programaci\u00F3n ii\\actividadesclasesvirtuales\\clase 20.09.2024\\efwebapi\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|c:\\users\\milis\\downloads\\material facultad\\materias\\programaci\u00F3n ii\\actividadesclasesvirtuales\\clase 20.09.2024\\efwebapi\\efwebapi\\data\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37546F39-C7E8-4A7D-9492-D96F9EDCB414}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EFWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\appsettings.json",
+              "RelativeToolTip": "EFWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:44:28.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Program.cs",
+              "RelativeToolTip": "EFWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:43:37.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "EFWebApi\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:32:11.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Repositories\\LibroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:04:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:02:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autore.cs",
+              "DocumentMoniker": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Data\\Models\\Autore.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Models\\Autore.cs",
+              "ToolTip": "C:\\Users\\milis\\Downloads\\Material Facultad\\Materias\\Programaci\u00F3n II\\ActividadesClasesVirtuales\\Clase 20.09.2024\\EFWebApi\\EFWebApi\\Data\\Models\\Autore.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Models\\Autore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:00:22.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
